@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 5th April 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started building a portfolio site with HTML and Bootstrap. Set up Git, Visual Studio Code and started on homepage.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Not done any HTML for a while so having to reference quite a bit. Page is just static html at the moment. Want to develop to support 100 days of code log as well as portfolio of work
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [PortfolioSite](https://github.com/scooby359/PortfolioSite)
+
+### Day 0: 3rd April 2018
+
+**Today's Progress**: Reading up on 100 Days of Code project, listed some ideas.
+
+**Thoughts:** Want to commit to project but also worried of running out of steam or not knowing what to do next. Come up with a list of ideas of things I'd like to do, or that fit with other work I'm doing and worth exploring. Thinking 10 projects / 10 days to fill up 100 days?
