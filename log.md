@@ -6,7 +6,7 @@
 
 **Thoughts** Not done any HTML for a while so having to reference quite a bit. Page is just static html at the moment. Want to develop to support 100 days of code log as well as portfolio of work
 
-*Tweets Sent - ✓
+#### Tweets Sent - ✓
 
 **Link(s) to work**
 1. [PortfolioSite](https://github.com/scooby359/PortfolioSite)
