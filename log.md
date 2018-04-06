@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: 6th April 2018
+
+**Today's Progress**: Working through the website stuff on [freeCodeCamp](https://www.freecodecamp.org/). Up to 100 points and refreshed on HTML, CSS, Bootstrap and jQuery. 
+
+**Thoughts** Good to have a refresher on the website stuff, been a couple of years since I've worked with it so there were bits I'd forgotten but it came back quick. Got to do the Tribute page task - will do on Alan Turing. Migraine kicked in though so had to give up for the day. Need to make some written notes to help what I've learnt stick, and also so I can flick back if needed for a reminder - will do tomorrow.
+
+#### Tweets Sent - ✓
+
 ### Day 1: 5th April 2018
 
 **Today's Progress**: Started building a portfolio site with HTML and Bootstrap. Set up Git, Visual Studio Code and started on homepage.
