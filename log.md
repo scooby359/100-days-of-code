@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: 8th April 2018
+
+**Today's Progress**: Worked on Portfolio Site. 
+
+**Thoughts** Worked on my Portfolio site, using the ideas I had yesterday. The cards on the home screen now open a modal when clicked, so I can use this to provide more information on each project without cluttering the page. Also done the contacts section with links and embedded mt Twitter feed. Not keen on how the contacts section looks though. Just sussed out Azure web app deployment and uploaded files - I'm online!!! To do - fill in project information and create template for easy updating; sort contacts section (have a look at others pages for ideas)
+
+**Links to Work**
+1. [My Portfolio Site!](https://chriswalton.azurewebsites.net/)
+2. [GitHub Repo](https://github.com/scooby359/PortfolioSite)
+
+#### Tweets Sent - ✓
+
 ### Day 3: 7th April 2018
 
 **Today's Progress**: Completed the FreeCodeCamp Tribute Page challenge. 
