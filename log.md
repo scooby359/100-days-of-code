@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 3: 7th April 2018
+
+**Today's Progress**: Completed the FreeCodeCamp Tribute Page challenge. 
+
+**Thoughts** Short day - still suffering migrane effects so just did a bit late on. Did the tribute page to Alan turing, used Bootstrap, CSS and HTML elements. Uploaded code to GitHub. Also made some notes in my journal about the jQuery functions / format for reference. Next challenge on CodeCamp is portfolio - fits in to what I started a few days ago so will continue to work on that next, using a simple one page format. Can come back and improve on it later - > use modals to pop up info about individual projects, keeps on one page but allows me to embed more detail and take advantage of more Bootstrap tools?
+
+**Links to Work**
+1. [CodePen project](https://codepen.io/scooby359/pen/PRyvwr)
+2. [GitHub Repo](https://github.com/scooby359/FreeCodeCamp-TributePage)
+
+#### Tweets Sent - ✓
+
 ### Day 2: 6th April 2018
 
 **Today's Progress**: Working through the website stuff on [freeCodeCamp](https://www.freecodecamp.org/). Up to 100 points and refreshed on HTML, CSS, Bootstrap and jQuery. 
