@@ -28,8 +28,6 @@
 - Analytics
 - Containers - Docker? Kubernetes?
 
-### Won't Do
-- Diabetic Log App
 
 ## Courses
 - Udemy
