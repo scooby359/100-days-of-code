@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 5: 9th April 2018
+
+**Today's Progress**: Completed Portfolio Site. 
+
+**Thoughts** Finished my portfolio! Looked at a few portfolios online last night and took some ideas to change my contacts and about section. Also found a new Bootstrap theme which I like more, and I've filled out the examples so the cards now open modals with an image and details of the example project. Deployed to Azure, put Google analytics in for some basic tracking, and Azure seems to have put SSL on! (not sure how or why!). Ready to move on, and update as needed. Also need to put some of the games assignments on - would like to link to code, but wary or uploading assignment code due to collusion/plagirism issues - will have to just do this for personal projects.
+
+**Links to Work**
+1. [My Portfolio Site!](https://chriswalton.azurewebsites.net/)
+2. [GitHub Repo](https://github.com/scooby359/PortfolioSite)
+
+#### Tweets Sent - ✓
+
 ### Day 4: 8th April 2018
 
 **Today's Progress**: Worked on Portfolio Site. 
