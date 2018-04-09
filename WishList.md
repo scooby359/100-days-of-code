@@ -7,7 +7,7 @@
 - Security techniques in coding
 
 ### Should Do
-- Personal Website / Blog
+- ~~Personal Website / Blog~~
 - Contrubute to an Open Source project
 - Server project - responding to queries, dynamic content, etc
 - Cloud tools - Azure, AWS, Firebase
