@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 6: 11th April 2018
+
+**Today's Progress**: Completed some JavaScript training on FreeCodeCamp. 
+
+**Thoughts** Firstly, I missed coding yesterday - being at uni all day, gym at night and trying to have some time for me meant it just didn't happen. And was going to do some tonight, but it's not happened either as I've been at Uni and the gym again so it leaves little free time... So, taking stock somewhat, I accept that there are some days it's just not going to be practical to get an hour of coding in. I'm making a point of recognising that now as it's going to happen again, and I specifically don't want to get beat up by it as that's just how it is, as long as I'm making the effort when possible. And I'm cool with that :)
+
+That said, I did have some free time during the day today so spent it on the JavaScript exercises on FreeCodeCamp. Have done JS before, but years ago, so it was good to have a refresher and once I realised how similar it was to the languages I've been using lately, I skipped over to the more complex bits. Completed some of the practial challenges and had a play with arrays and regex.
+
+**Links to Work**
+1. [FreeCodeCamp](https://www.freecodecamp.org/scooby359)
+
+#### Tweets Sent - ✓
+
 ### Day 5: 9th April 2018
 
 **Today's Progress**: Completed Portfolio Site. 
