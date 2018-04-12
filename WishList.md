@@ -14,6 +14,7 @@
 - Web languages - PHP, Ruby, JavaScript, Angular
 - Python
 - C# project
+- Find out what a Gradle file is / does
 
 ### Could Do
 - Tensor Flow / Machine learning
