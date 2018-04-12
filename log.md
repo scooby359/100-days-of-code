@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: 12th April 2018
+
+**Today's Progress**: Uni work - C++ (C11, pointers) and Android A6 project. 
+
+**Thoughts** Spent an hour or so on some class work for Uni playing with C11 unique pointers and functors. Then tried to get back to an Android project I started a couple of months ago and left... Didn't realise how rusty I'd be on it! Also played with the Room database manager instead of raw SQLiteDBHelper, so that took a bit of learning on top of remembering my work. But, spent a good hour with build errors and update installations and blah.. so gave up on and will pick it up tomorrow.
+
+**Links to Work**
+
+#### Tweets Sent - ✓
+
 ### Day 6: 11th April 2018
 
 **Today's Progress**: Completed some JavaScript training on FreeCodeCamp. 
