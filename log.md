@@ -7,6 +7,7 @@
 **Thoughts** Spent an hour or so on some class work for Uni playing with C11 unique pointers and functors. Then tried to get back to an Android project I started a couple of months ago and left... Didn't realise how rusty I'd be on it! Also played with the Room database manager instead of raw SQLiteDBHelper, so that took a bit of learning on top of remembering my work. But, spent a good hour with build errors and update installations and blah.. so gave up on and will pick it up tomorrow.
 
 **Links to Work**
+1. [A6v3 GitHub](https://github.com/scooby359/A6v3)
 
 #### Tweets Sent - ✓
 
