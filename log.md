@@ -6,8 +6,11 @@
 
 **Thoughts** Lots done on this today and last night after my log! The basic app is done - all functionality is complete, including listing notes, search of notes, creating new notes from blank or from input search text, edit existing notes and delete notes. Checks created for cancelling edits or deleting to confirm user wants this (they take a lot of time, thinking of all situations and writing lots of little bits to cover them). Local backup also works which I've tested with ADB. I'm now going to fork it two ways - I want to set up some automated testing and have a play with that, and I want to work on import / export of entries so I need to work with external storage and generating a file from the database output. 
 
+***Update***  - Spent loads of time on this today and also had a play around with the IDE to learn it better and customise. Using Twitter more to engage with community - finding useful pages, interesting people to follow, etc. Also set up a useful pages link on Git of things I've found which are useful and I want to come back to or share with others.
+
 **Links to Work**
 1. [A6v3 GitHub](https://github.com/scooby359/A6v3)
+2. [Useful Pages](https://github.com/scooby359/100-days-of-code/blob/master/Useful%20Pages.md)
 
 #### Tweets Sent - ✓
 
