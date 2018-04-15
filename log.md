@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8-9: 12/13th April 2018
+
+**Today's Progress**: Android A6 project. 
+
+**Thoughts** Spent a lil time on this on Friday but was so tired I gave up after a short while. Picked it up on Sat though and spent most the evening on it. Lots done - db works, listview works, clicking on item takes through to editing with prepopulated fields, back then checks for changes and prompts to save, or can use the save button. Search implemented on main list - list updates but status icon gets removed from all entries.. not sure why. And while trying to fix that, other things are breaking.. can't get XML design mode to work now, it's not showing an SDK, and I keep being forced to rebuild the project grr!
+
+**Links to Work**
+1. [A6v3 GitHub](https://github.com/scooby359/A6v3)
+
+#### Tweets Sent - ✓
+
 ### Day 7: 12th April 2018
 
 **Today's Progress**: Uni work - C++ (C11, pointers) and Android A6 project. 
