@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 8-9: 12/13th April 2018
+### Day 10: 15th April 2018
+
+**Today's Progress**: Android A6 project. 
+
+**Thoughts** Lots done on this today and last night after my log! The basic app is done - all functionality is complete, including listing notes, search of notes, creating new notes from blank or from input search text, edit existing notes and delete notes. Checks created for cancelling edits or deleting to confirm user wants this (they take a lot of time, thinking of all situations and writing lots of little bits to cover them). Local backup also works which I've tested with ADB. I'm now going to fork it two ways - I want to set up some automated testing and have a play with that, and I want to work on import / export of entries so I need to work with external storage and generating a file from the database output. 
+
+**Links to Work**
+1. [A6v3 GitHub](https://github.com/scooby359/A6v3)
+
+#### Tweets Sent - ✓
+
+### Day 8-9: 13/14th April 2018
 
 **Today's Progress**: Android A6 project. 
 
