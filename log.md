@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 12: 18th April 2018
+
+**Today's Progress**: FreeCodeCamp Basic Javascript Algorithms and Android A6 project. 
+
+**Thoughts** Had some free time at work today, but no laptop, so did some FreeCodeCamp tasks with JavaScript. It's not my main focus for the #100DaysOfCode project, but I do want to get round to some server stuff, so JS will be helpful, and it was still some coding and still thinking about breaking problems down. Later on, tried to do some Android work but AndroidStudio keeps playing up - tried to delete files and re-pull from Git - that usually works with Unity, but in this case, Android Studio won't create any new files... But I'm way too tired, falling asleep and can't think straight so leaving it there for the night. 
+
+**Links to Work**
+1. [A6v3 GitHub](https://github.com/scooby359/A6v3)
+2. [FreeCodeCamp](https://www.freecodecamp.org/scooby359)
+
+#### Tweets Sent - ✓
+
 ### Day 11: 17th April 2018
 
 **Today's Progress**: Android A6 project. 
