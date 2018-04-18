@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: 17th April 2018
+
+**Today's Progress**: Android A6 project. 
+
+**Thoughts** Missed yesterday, needed me time! Spent time today (and yest) reading up on Android automated testing. Founce some resources on how testing should be done, benefits and coding style, and some on the actual coding with JUnit and Mockito. Had a play and created some unit tests for my database and note class. Written some notes up to help me remember! 
+
+**Links to Work**
+1. [A6v3 GitHub](https://github.com/scooby359/A6v3)
+
+#### Tweets Sent - ✓
+
 ### Day 10: 15th April 2018
 
 **Today's Progress**: Android A6 project. 
