@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 13: 20th April 2018
+
+**Today's Progress**: Android A6 project. 
+
+**Thoughts** Missed another day yesterday and didn't get anything done tonight.. so tired! Think it's the hayfever tablets making me so sleepy. But.. I did get a load done this afternoon so was working on my Android project. Working much better since I changed the folders with less build errors. So Wednesday, I managed to load the Android file access thing and got a URI link. Today, I've worked on opening the file, working incrementally.. first logging the contents to the console, then appending on screen, and now I've modified the class entity to accept strings in a constructor, so I can make objects which are now importable to the database. So the next bit to work on is exporting the database, which I don't think will be that hard, and probably similar to what I've done today.
+
+**Links to Work**
+1. [A6v3 GitHub](https://github.com/scooby359/A6v3)
+
+#### Tweets Sent - ✓
+
 ### Day 12: 18th April 2018
 
 **Today's Progress**: FreeCodeCamp Basic Javascript Algorithms and Android A6 project. 
