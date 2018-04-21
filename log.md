@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 14: 20th April 2018
+
+**Today's Progress**: Android A6 project. 
+
+**Thoughts** Spent a few hours on this tonight! Worked on exporting the data to a CSV file. Had to work through the process of creating the file and appending the string contents to it, and then was held up by file permissions, as the newer Android APIs don't let you just declare it in the manifest, it also needs explicit user consent gaining. So I worked through that and the settings now asks for write permission when the button is pressed, then creates the export if permission given. Then did some tidying up - used the code analyser to pick up any bad habits, like variables which could be private, or unused code. Tested it all with a real data set, and I'm now happy that it does what I need :)
+
+Thinking that there are a few small touches that could be added, like an improved layout design, ability to select many notes for deletion at once, and using snackbars instead of toasts. But... it also feels like I'd be spending a lot of time doing little niggly things that don't make a big difference.. maybe valuable in a real customer project, but for the sake of the 100 Days of Code project, feel like I'd be wasting time on trivial bits. So, that being the case, I'm going to close this app off - I can use it myself now as it meets the needs I had for it, and I can move on to something else on my 100 Days of Code wishlist.
+
+**Links to Work**
+1. [A6v3 GitHub](https://github.com/scooby359/A6v3)
+
 ### Day 13: 20th April 2018
 
 **Today's Progress**: Android A6 project. 
