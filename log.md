@@ -11,6 +11,8 @@ Thinking that there are a few small touches that could be added, like an improve
 **Links to Work**
 1. [A6v3 GitHub](https://github.com/scooby359/A6v3)
 
+#### Tweets Sent - ✓
+
 ### Day 13: 20th April 2018
 
 **Today's Progress**: Android A6 project. 
