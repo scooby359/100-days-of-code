@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 14: 20th April 2018
+### Day 15: 22nd April 2018
+
+**Today's Progress**: Firebase in a Weekend. 
+
+**Thoughts** Working through a Google course on learning Firebase in a weekend! Was one of the things on my wishlist and someone on linked to the course with the #100DaysOfCode tag. It's a guided course, making a simple online messaging app. So far, I've forked the basic code for the chat app, then I've created a project in Firebase, implemented a realtime database for the messages and user authentication using FirebaseUI. There's a couple more days to go with it, but each day is about 4 hours of work. So good progress with it today, and I've figured out how to fork the code so I have my own version on GitHub! Will continue this for the next couple of days as it goes into online storage, analytics and testing, as these will be useful in future projects.
+
+**Links to Work**
+1. [My GitHub Repo for the Work](https://github.com/scooby359/and-nd-firebase)
+2. [Firebase in a Weekend (Udacity)](https://classroom.udacity.com/courses/ud0352)
+
+#### Tweets Sent - ✓
+
+### Day 14: 21st April 2018
 
 **Today's Progress**: Android A6 project. 
 
