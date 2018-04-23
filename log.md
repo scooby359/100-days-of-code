@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 16: 22nd April 2018
+### Day 16: 23rd April 2018
 
 **Today's Progress**: Firebase in a Weekend - Part 2! 
 
