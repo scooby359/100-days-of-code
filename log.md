@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 16: 22nd April 2018
+
+**Today's Progress**: Firebase in a Weekend - Part 2! 
+
+**Thoughts** Head's frazzled after spending a few hours on this. And it was really just the Functions with JS at the end that did it! Some really cool features in Firebase though, especially the push notifications, online storage and remote config. Completed the tutorial, so need to think about how I could use some of the features in a personal project..
+
+**Links to Work**
+1. [My GitHub Repo for the Work](https://github.com/scooby359/and-nd-firebase)
+2. [Firebase in a Weekend (Udacity)](https://classroom.udacity.com/courses/ud0352)
+
+#### Tweets Sent - ✓
+
 ### Day 15: 22nd April 2018
 
 **Today's Progress**: Firebase in a Weekend. 
