@@ -2,7 +2,9 @@
 
 ### Must Do
 - Google Android Course
-- Android App
+- Android App:
+  - ~~Personal A6 Note app~~
+  - ~~~Firebase Chat App~~
 - Automated testing
 - Security techniques in coding
 
@@ -10,7 +12,7 @@
 - ~~Personal Website / Blog~~
 - Contrubute to an Open Source project
 - Server project - responding to queries, dynamic content, etc
-- Cloud tools - Azure, AWS, Firebase
+- Cloud tools - Azure, AWS, ~~Firebase~~
 - Web languages - PHP, Ruby, JavaScript, Angular
 - Python
 - C# project
