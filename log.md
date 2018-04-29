@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: 29th April 2018
+
+**Today's Progress**: #100DaysOfCode Mobile App 
+
+**Thoughts** HAd a few days off, between hectic last week at uni and feeling awful from hayfever tablets... Been doing bits of JS on Grasshopper though, and done some Android reading when I could. Spent a lot of time today reading about design structures, Play Services and Android Support Libraries. Wanted to try and build an app for #100DaysOfCode using thw Twitter API... spent an hour and a half on it, but it wouldn't work.. think I put a # symbol in the project name which seems so have had weird side effects throughout the code. So after messing for a while, I've deleted and will start again. Kind of a lost programming session, but lesson learnt on using symbols! And I've had a playw ith the Twitter API stuff so that's been useful.
+
+**Links to Work**
+1. [#100DaysOfCode App](https://github.com/scooby359/100DaysMobileApp)
+
+#### Tweets Sent - ✓
+
 ### Day 16: 23rd April 2018
 
 **Today's Progress**: Firebase in a Weekend - Part 2! 
