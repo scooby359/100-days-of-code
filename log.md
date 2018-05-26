@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 18: 26th May 2018
+
+**Today's Progress**: Google Codelab - MVP / Testing 
+
+**Thoughts** Back at it!! Had a break with exams and revision - needed to put that first, then was a bit frazzled so didn't want to then be coding and not getting a break. But I'm back and picking up where I left off!
+
+Trying to get my head around MVP architecture and the benefits it brings to automated testing. Completed the Google Codelab on Android Testing which goes through MVP architecture and an example app, along with JUnit and Espresso testing - JUnit is for functional Java logic code - it works well with MVP as it reduces dependencies, so you can just test straight forward functions without the need for views and layouts for grabbing values or outputting results, which is a problem with using one Java file for the interface and business logic. Espresso simulates the Android UI, allowing you to reference objects on screen and interact and test values. It's good, for example, for testing user inputs and that actions are called when buttons pressed, etc. 
+
+So I've a better idea of how MVP structuring works, so I need to have a go at some now, and could do with a bit more reading to try and embed it.
+
+**Links to Work**
+1. [#100DaysOfCode App](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
+
+#### Tweets Sent - ✓
+
 ### Day 17: 29th April 2018
 
 **Today's Progress**: #100DaysOfCode Mobile App 
