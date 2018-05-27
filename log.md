@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 19: 27th May 2018
+
+**Today's Progress**: #100DaysOfCode Twitter app - MVP 
+
+**Thoughts** Back in at the deep end apparently! Spent three-ish hours reworking the Twitter app I started a while back, to display the #100DaysOfCode Tweets.
+
+The app is now in MVP style - seperated into the view, a presenter and the data model, held together with an interface contract. This allows the view to call for data, which the presenter gets from the data model. The presenter can then send this back to the view which can use it to update the tweets being displayed.
+
+Challenges were in linking everything together - the way that constructors need to be set up, and getting my head around how data objects are passed around. I'm also missing a bit around callbacks and data querys - I'm using the Twitter SDK which is nice because it just handles the search query.. but I don't seem to have access to onRequest / onWait / onSuccess / onFail functions, so I'm limited to how much I can adjust the view.. Might be missing something, or might need to construct the queries manually to gain more control... Not an issue right now as that's not an aim of the project.
+
+Tomorrow's aim is to work on automated testing, and using what I learnt about JUnit and Espresso to test the view functions, eg when refresh is pressed, does the proper function trigger (and I don't need to worry about the result because it's all seperated by mvp!), and when the presenter logic is run, does it function as expected... Tomorrow's job!
+
+**Links to Work**
+1. [#100DaysOfCode App](https://github.com/scooby359/100DaysMobileApp)
+
+
 ### Day 18: 26th May 2018
 
 **Today's Progress**: Google Codelab - MVP / Testing 
