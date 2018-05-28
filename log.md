@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 20: 27th May 2018
+### Day 20: 28th May 2018
 
 **Today's Progress**: #100DaysOfCode Twitter app - Testing 
 
