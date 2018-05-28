@@ -11,6 +11,8 @@ Still some things I'm not sure of and feel like they should be testable - like w
 **Links to Work**
 1. [#100DaysOfCode App](https://github.com/scooby359/100DaysMobileApp)
 
+#### Tweets Sent - ✓
+
 ### Day 19: 27th May 2018
 
 **Today's Progress**: #100DaysOfCode Twitter app - MVP 
@@ -26,6 +28,7 @@ Tomorrow's aim is to work on automated testing, and using what I learnt about JU
 **Links to Work**
 1. [#100DaysOfCode App](https://github.com/scooby359/100DaysMobileApp)
 
+#### Tweets Sent - ✓
 
 ### Day 18: 26th May 2018
 
