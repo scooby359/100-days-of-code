@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 20: 27th May 2018
+
+**Today's Progress**: #100DaysOfCode Twitter app - Testing 
+
+**Thoughts** Wrote some Espresso tests today! They validate that the reyclerview is visible, that the refresh makes the snackback appear, and that the progress bar is hidden... Simple but it's a start! Was trying to validate that the recyclerview had the expected content, but couldn't figure out how to check it.. all the tests were just returning the reyclerview itself, not it's contents..
+
+Still some things I'm not sure of and feel like they should be testable - like when refresh is pressed, it calsl the refresh function. Should I be able to test that this call has happened? Not sure how though.. Will work on that later! And want to do the JUnit test for the logic side, that when the Twitter request is made, that I get a list of tweets back. Again, think that using Twitter's SDK might make that hard as returns a custom SearchTimeline object which is just managed by the the adapter. Not sure how I can get access to be able to check the size or contents to be able to verify that something is loaded from the functional side... Will play about later!
+
+**Links to Work**
+1. [#100DaysOfCode App](https://github.com/scooby359/100DaysMobileApp)
+
 ### Day 19: 27th May 2018
 
 **Today's Progress**: #100DaysOfCode Twitter app - MVP 
