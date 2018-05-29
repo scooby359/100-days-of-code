@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 21: 29th May 2018
+
+**Today's Progress**: #100DaysOfCode Twitter app - Testing 
+
+**Thoughts** Ugh.. Not much time on this today, but spent it trying to do the test for the presenter class. One function.. should be simple..? Nope.. because I need to validate a function call on another class, so in looking it up, I've ended up on Mockito and injection and factories and more in depth TDD styling. So what I thought would be simple opened a much more complicated process which I haven't got time to go into detail with tonight..
+
+So, learning from this though is that I need to read a bit more into it! And maybe split my work a little - a simple app with TDD style, and a simpler MVP app that's not relying on the Twitter SDK, like a simple press a button and something happens on screen app, just to get my head around all this better?
+
+**Links to Work**
+1. [#100DaysOfCode App](https://github.com/scooby359/100DaysMobileApp)
+
+#### Tweets Sent - ✓
+
 ### Day 20: 28th May 2018
 
 **Today's Progress**: #100DaysOfCode Twitter app - Testing 
