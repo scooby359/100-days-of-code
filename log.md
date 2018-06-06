@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+
+### Day 22-26 : to 6th June 2018
+
+**Today's Progress**: Games on Android 
+
+**Thoughts** In Scotland so no internet! (Ha, like it's the whole country 😅) so I've been working offline with an ebook - Learning Java with Games on Android. I remember doing some of this last year (?) so some of the exercises are familiar, but they definitely make more sense this time round, and I've done a cool pong game with a manually drawn surfaceview instead of a usual layout, so that's been interesting to see what can be done.
+
+Today, I'm going to continue on the pong style game I did last night - followed the tutorial through, but the game's quite basic, e.g. bad code layout, no classes, repeated variables, bad behaviour (e.g. bat can fly off the screen) so I want to extend the tutorial now and refactor and improve the code using my own knowledge.
+
+**Links to Work**
+
+1. Unable to upload! 
+
+#### Tweets Sent - intermittent, mainly just likes where possible
+
+
 ### Day 21: 29th May 2018
 
 **Today's Progress**: #100DaysOfCode Twitter app - Testing 
