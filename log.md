@@ -1,7 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 29: 23rd June 2018!
 
-### Day 22-26 : to 6th June 2018
+**Today's Progress**: Typescript 
+
+**Thoughts** So finished that week in Scotland, then a week in Belgium with no computer at all! Then I've started my placement job as a Software Dev this week! So no chance for #100DaysOfCode the past couple of weeks (or not been up for it!), and now with the time I'm spending on my new job, it's likely this will become just a weekend project.. probably.
+
+So, reassessed my priorities, and will be doing more front end web work, as it's more relevant to what I think I'll be doing over the next year. Spent this evening reading through a guide to Typescript - I now know that it's related to JavaScript, but with extras! And simpler to type, more like the C++ I'm used to.
+
+**Links to Work**
+
+1. https://www.tutorialspoint.com/typescript/index.htm
+
+### Day 22-28 : to 6th June 2018
 
 **Today's Progress**: Games on Android 
 
