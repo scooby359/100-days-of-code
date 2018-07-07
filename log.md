@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 32 - 7th July 2018!
+
+**Today's Progress**: .Net Core - Web Api 
+
+**Thoughts** Finished the Web API tutorial! 😁 Managed to follow it through this time and got the system working. Seems pretty straight forward, but confused about the C# attributes - the bits in sqaure brackets before function and class declarations.. So that's something to have a look at, and I'll try a bit more with the web api tomorrow 
+
+**Links to Work**
+
+1. https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.1
+
+### Day 30 / 31: 30th June / 1st July 2018!
+
+**Today's Progress**: .Net Core - Web Api 
+
+**Thoughts** Tried to follow thr .Net core tutorial on MSDN to create a simple web api. Spent a lot of time reading and following along, then realised I had the wrong version of .Net installed so it wouldn't work, then spent ages installing that, updating VS to then be told the project wasn't configured correctly. Eventually gave up.. a lot of time wasted!
+
+Also did some reading on CSS layouts, particularly grids, and Angular
+
+**Links to Work**
+
+1. https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.1
+2. https://angular.io/
+3. https://css-tricks.com/snippets/css/complete-guide-grid/
+
 ### Day 29: 23rd June 2018!
 
 **Today's Progress**: Typescript 
