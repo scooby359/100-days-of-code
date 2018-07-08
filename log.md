@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 33 - 8th July 2018!
+
+**Today's Progress**: Mean stack tutorial 
+
+**Thoughts** Trying to have a look at more of a full stack approach - front end, apis and database, so found a YouTube tutorial which had good feedback, using angular, mongodb and a few other bits.. Started it off and got a couple of videos in. Bits I'm stuck with - VS code linting throwing up loads of stupid errors which I don't understand! And keeping up with the videos - lots of JS actions I'm not familiar with, like the http responses, assigning libraries to variables, and the use of node modules I'm not familiar with. But, I'll stick with it and it helps to pause the video and look through what we've done, and look into some of the things before I continue. So gone well, and will pick it up next week!
+
+**Links to Work**
+1. https://youtu.be/uONz0lEWft0
+2. https://github.com/scooby359/meanstacktutorial
+
 ### Day 32 - 7th July 2018!
 
 **Today's Progress**: .Net Core - Web Api 
