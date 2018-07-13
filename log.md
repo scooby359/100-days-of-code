@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 34 - 13th July 2018!
+
+**Today's Progress**: Chrome extension tutorial 
+
+**Thoughts** Firstly - met someone in Manchester who's also doing 100 Days of Code - hey Leila! 😁
+
+Tonight, did a tutorial on writing Chrome extensions. Have an idea I want to make, so that'll be my weekend project.. want to be able to block users on the comments section of a local newspaper.. thinking it should just be selecting usernames (As a string), then finding divs which contain that, then hide them, or delete them from the dom.. or similar. So done the tutorial, fairly straight forward, but lots of JS again, and a big chrome library, but no intelisense to populate it for me! So I'll have to read the documentation a bit closer 😀
+
+**Links to Work**
+1. https://developer.chrome.com/extensions/getstarted
+2. https://github.com/scooby359/ChromeExtension-LTCommentBlock
+
 ### Day 33 - 8th July 2018!
 
 **Today's Progress**: Mean stack tutorial 
