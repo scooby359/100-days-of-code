@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 35 - 16th July 2018!
+
+**Today's Progress**: Chrome extension 
+
+**Thoughts** Skipped coding yesterday - was knackered and really bad headache! So did some tonight, working on the chrome extension I'm making. Thought I had my head around this from the tutorial, but actually really confused what goes where! So starting slowly, getting JS to run when an element changes (bit I want to filter loads up while scrolling the page), then it gets all elements meeting a class type, then I can match off those which meet a specific filter. That's where I'm up to..
+
+So next step will be to get the parent of those nodes, and delete them from the page, or replace them with a different div. Then further work to allow easily adding to the filters, initially manually by adding to an input field, but would be better to add a button to the page elements to make it easier to do.... Lots for the back log!
+
+**Links to Work**
+
+1. https://github.com/scooby359/ChromeExtension-LTCommentBlock
+
 ### Day 34 - 13th July 2018!
 
 **Today's Progress**: Chrome extension tutorial 
