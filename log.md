@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 36 - 37 -  20th & 22nd July 2018!
+
+**Today's Progress** : Chrome Extension
+
+**Thoughts** So I've continued with the Chrome extension I'm working on and it's coming along well!
+
+I'm trying to use Github, along with Sourcetree, to properly manage issues, and branching of my dev to work on each in isolation then merging back in. It's what we do at work and seems a good way to manage it, but the issues on Github don't link to branches as well as Jira / Sourcetree do.
+
+The app is coming along well, and I've been working on the UI elements. The extension icon is now active on the relevant pages, and when clicked, shows a lil pop up page with a field to add users to the block list, and shows a list of blocked users, along with a button to unblock them. 
+
+I struggled getting the popup to activate on the page - I'd logged it in the manifest properly, but hadn't set up the background.js to  
+use a listener with declarativeContent. Eventually got that sorted, and then struggled with the JS for the list.. Managed to make it dynamic - so a template is defined in the HTML. The JS file then gets the block list, and for each, clones the template, populates the name field and creates an event listener linked to that user. 
+
+So, the extension is now at mvp point where it has the basic block function and users can be added or removed. I want to continue on with the other issues I've got - an inline block button, comment replacement instead of removal and should work on other newsquest sites. 
+
+I'm finding it slower going to make the extension and thought it would be simpler. I can see that I don't know much about JS, DOM manipulation, and the Chrome API. So it's stuff I'm learning as I go, but also feel like it's better to do that making a functional product than just following tutorials.
+
+**Links to Work**
+
+1. https://github.com/scooby359/ChromeExtension-LTCommentBlock
+
 ### Day 35 - 16th July 2018!
 
 **Today's Progress**: Chrome extension 
