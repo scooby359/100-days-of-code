@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Ending Project! 😢
+## 22nd August 2018
+
+So, I'm officially closing this off for now! While I'm working in Manchester full time, it's just too much to spend all day at work plus travel time to then be able to wind down at home, do other things, etc, and make the regular commitment to this.
+
+My learning is continuing at work, where I've spent the last two months working with Angulat, Typescript, HTML, CSS, C# and .net servers. So lots going on, just focussing more on that. I'm still doing bits of self learning at home too (spent a couple of hours this evening on CSS techniques) but it's just not regular and when I have time.
+
+So, learnt some cool things while doing this project and made connections with cool people on Twitter and real life! Definitely been worth doing, and when the time is right (probably next summer?) I'll pick it and start again!
+
 ### Day 36 - 37 -  20th & 22nd July 2018!
 
 **Today's Progress** : Chrome Extension
